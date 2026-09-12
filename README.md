@@ -1,4 +1,4 @@
-# Hi, I'm Darshan Patoliya 👋
+# Hi, I'm Darshan Patoliya 
 
 ### Software Developer | C# / .NET | Full-Stack Development | Systems & Technical Support
 
